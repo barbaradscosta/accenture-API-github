@@ -1,8 +1,4 @@
-# Desaio API github - Academia React Accenture :airplane::heart:
-
-
-
-Projeto feito com ReactJs para a academia de Front end da Accenture
+# Desaio API github
 
 
 
